@@ -1,0 +1,155 @@
+body{
+  text-align: center;
+}
+
+.big-headings{
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 4rem;
+  margin-bottom: 5%;
+}
+
+/* header */
+
+#header{
+  background-color: #ca5116;
+  padding: 3% 15% 7%;
+  color: white;
+  line-height: 1.5;
+
+}
+
+.navbar {
+  margin-bottom: 30px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+
+.navbar img{
+  width: 50px;
+}
+
+.title-header {
+  font-weight:bold;
+}
+
+.title-text {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-family: 'Kaushan Script', cursive;
+}
+
+h4{
+  font-family: 'Kaushan Script', cursive;
+}
+
+.img-header{
+  padding-right: 0;
+}
+
+.boba-img {
+  width: 80%;
+}
+
+.logo-header {
+  width: 125px;
+}
+
+/* promo */
+
+#promo {
+  background-color: #f9b384;
+}
+
+.container-promo{
+  padding-top: 5%;
+
+}
+
+#promo .card{
+  margin: 0 auto;
+}
+
+#promo .container-fluid {
+  padding:3% 15% 7%;
+}
+
+.promo-sub-heading {
+  margin-bottom: 2rem;
+}
+
+/* menu */
+
+#menu .container-fluid{
+  padding:3% 15% 7%;
+}
+
+.menu-column {
+  padding: 3% 2%;
+}
+
+#menu .card{
+  margin: 0 auto;
+}
+
+.menu-img {
+  width: 100%;
+  height: 50vh;
+  object-fit: cover;
+}
+
+.gofood-btn{
+  background-color: green;
+}
+
+
+/* location */
+
+.container-location{
+  background-color: #f1e3cb;
+  padding-top: 5%;
+}
+
+#location .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.location-title{
+  margin-left: 10%;
+  margin-bottom: 20px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+
+.location-text{
+  text-align: center;
+  color: grey;
+  font-size: 1.5rem;
+
+}
+
+.cont-img-location{
+  position: relative;
+}
+
+.img-location {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+/* footer */
+
+#footer{
+  background-color: #581c0c;
+  text-align: center;
+}
+
+#footer .fab {
+  margin: 2px 5px;
+}
+
+.container-footer{
+  padding: 5% 15%;
+}
